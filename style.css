@@ -64,20 +64,20 @@ p {
 }
 .cta2 {
 	display: inline-block;
-	padding: 10px 30px;
+	padding: 7px 20px;
 	color: white;
 	background-color: transparent;
 	border: 2px solid crimson;
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: .1rem;
-	margin-top: 30px;
+	margin-top: 20px;
 	transition: .3s ease;
 	transition-property: background-color, color;
 }
 .cta2:hover {
 	color: white;
-	background-color: green;
+	background-color: springgreen;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -448,7 +448,7 @@ p {
 }
 #about .col-right .cta2 {
 	color: black;
-	margin-bottom: 40px;
+	margin-bottom: 30px;
 	padding: 7px 15px;
 	font-size: 2rem;
 }
@@ -595,7 +595,7 @@ p {
 	}
 	.cta2 {
 		font-size: 1.5rem;
-		padding: 15px 40px;
+		padding: 12px 30px;
 	}
 	h1.section-title {
 		font-size: 6rem;
